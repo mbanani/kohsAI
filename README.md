@@ -2,7 +2,9 @@
 [Maithilee Kunda](https://my.vanderbilt.edu/mkunda/), [Mohamed El Banani](https://mbanani.github.io/), and [James M. Rehg](http://rehg.org/)
 
 
-This code implements the word described in [A Computational Exploration of Problem-Solving Strategies and Gaze Behaviors on the Block Design Task](https://pdfs.semanticscholar.org/554f/902e04ebe1cdddf00fd1e5f1dd44e276d137.pdf). If you have any questions, feel free to contact me at mbanani@umich.edu. 
+This code implements the work described in [A Computational Exploration of Problem-Solving Strategies and Gaze Behaviors on the Block Design Task](https://pdfs.semanticscholar.org/554f/902e04ebe1cdddf00fd1e5f1dd44e276d137.pdf), which was presented at the 38th Annual Conference of the Cognitive Science Society. 
+
+If you have any questions, feel free to contact me at mbanani@umich.edu. 
 
 
 ## Running the Code
