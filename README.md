@@ -16,7 +16,7 @@ If you use this code in your research, please consider citing:
 
       @inproceedings{kunda2016computational,
         title={A Computational Exploration of Problem-Solving Strategies and Gaze Behaviors on the Block Design Task},
-        author={Kunda, Maithilee and \textul{Mohamed El Banani} and Rehg, James M},
+        author={Kunda, Maithilee and El Banani, Mohamed and Rehg, James M},
         booktitle={Proceedings of the 38th Annual Conference of the Cognitive Science Society},
         number={38},
         year={2016}
